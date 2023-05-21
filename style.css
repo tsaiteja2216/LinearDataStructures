@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(34, 58, 193);
+  }
+  
+  h1{
+    color: rgb(247, 246, 246);
+    text-align: center;font-weight: normal;
+  
+  }
+h2{
+  color: white;text-align: center;
+}
+  
+  hr{
+    border-style:double
+  }
